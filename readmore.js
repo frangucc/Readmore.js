@@ -1,6 +1,8 @@
 /*!
  * Readmore.js jQuery plugin
  * Author: @jed_foster
+ * Bower Manager: @franckejones
+ * Version: 1.0.0
  * Project home: jedfoster.github.io/Readmore.js
  * Licensed under the MIT license
  */
